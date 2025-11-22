@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+# https://copier.readthedocs.io/en/stable/updating/#never-change-the-answers-file-manually
+_commit: v2.2.2
+_src_path: gh:FallingColors/hexdummy
+advanced: true
+capitalize_platforms: true
+classname: Hcaddon
+default_branch: main
+description: HCAddon addon for Hex Casting
+display_name: HCAddon
+github_repo: HCAddon
+github_user: Custom-Coder
+homepage_url: https://custom-coder.github.io/HCAddon
+java_package: io.github.custom_coder.hcaddon
+kotlin_package: io.github.custom_coder.hcaddon
+mappings_name: Mojmap
+minecraft_version_in_mod_version: true
+mit_license: true
+mod_version: 0.1.0
+modid: hcaddon
+sources_url: https://github.com/Custom-Coder/HCAddon

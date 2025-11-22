@@ -1,0 +1,8 @@
+{
+  hexdoc: {
+    hcaddon: {
+      title: "HCAddon Book",
+      description: "HCAddon addon for Hex Casting",
+    },
+  }
+}
